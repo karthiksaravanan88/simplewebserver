@@ -118,8 +118,8 @@ httpd.serve_forever()
 NAME       : KARTHIK SARAVANAN B
 REGISTER NO: 212224230118
 
-![alt text](<Screenshot 2025-05-12 104813.png>)
+![image](https://github.com/user-attachments/assets/02103aaf-b044-4a7d-b604-cdf286fb9228)
 
-![alt text](<Screenshot 2025-05-12 104828.png>)
+![image](https://github.com/user-attachments/assets/87ac05bd-581b-4b0e-85ad-0b971d3472f2)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
